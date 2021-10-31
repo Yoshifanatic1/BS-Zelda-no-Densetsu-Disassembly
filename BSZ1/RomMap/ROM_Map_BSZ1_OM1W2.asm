@@ -58,7 +58,7 @@ macro BSZ1_GlobalAssemblySettings()
 	!Define_Global_AsarChecksum = $A109
 	!Define_Global_LicenseeName = "St.GIGA"
 	!Define_Global_DeveloperName = "Nintendo R&D2"
-	!Define_Global_ReleaseDate = "August 13, 1995"
+	!Define_Global_ReleaseDate = "August 6, 1995"
 	!Define_Global_BaseROMMD5Hash = "9519e4ebf147ab68c514e2a23f1b13c9"
 	!Define_Global_ROMType = !ROMType_SatellaviewGame
 	!Define_Global_SRAMSize = !SRAMSize_0KB

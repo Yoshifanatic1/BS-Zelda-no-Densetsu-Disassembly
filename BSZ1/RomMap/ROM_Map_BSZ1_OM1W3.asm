@@ -51,15 +51,15 @@ macro BSZ1_GlobalAssemblySettings()
 	!Define_Global_CompatibleControllers = !Controller_StandardJoypad
 	!Define_Global_DisableROMMirroring = !FALSE
 	!Define_Global_CartridgeHeaderVersion = $02
-	!Define_Global_FixIncorrectChecksumHack = !FALSE
+	!Define_Global_FixIncorrectChecksumHack = !TRUE
 	!Define_Global_ROMFrameworkVer = 1
 	!Define_Global_ROMFrameworkSubVer = 2
 	!Define_Global_ROMFrameworkSubSubVer = 0
-	!Define_Global_AsarChecksum = $0000
+	!Define_Global_AsarChecksum = $0BD7
 	!Define_Global_LicenseeName = "St.GIGA"
 	!Define_Global_DeveloperName = "Nintendo R&D2"
 	!Define_Global_ReleaseDate = "August 13, 1995"
-	!Define_Global_BaseROMMD5Hash = "dd191f8a103fe58c11d36c7d4e2ace60"
+	!Define_Global_BaseROMMD5Hash = "719a82679b24fd100ff1f8d4545deaed"
 	!Define_Global_ROMType = !ROMType_SatellaviewGame
 	!Define_Global_SRAMSize = !SRAMSize_0KB
 	!Define_Global_Region = !Region_Japan
@@ -79,7 +79,7 @@ macro BSZ1_GlobalAssemblySettings()
 	!Define_Global_LicenseeID = $33
 	!Define_Global_VersionNumber = $02
 	!Define_Global_ChecksumCompliment = !Define_Global_Checksum^$FFFF
-	!Define_Global_Checksum = $0BD7
+	!Define_Global_Checksum = $0046
 	!UnusedNativeModeVector1 = $0000
 	!UnusedNativeModeVector2 = $0000
 	!NativeModeCOPVector = $A400
